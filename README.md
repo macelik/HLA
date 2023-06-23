@@ -2,7 +2,7 @@ xHLA: Fast and accurate HLA typing from short read sequence data
 ================================================================
 
 [![Travis-CI](https://travis-ci.org/humanlongevity/HLA.svg?branch=master)](https://travis-ci.org/humanlongevity/HLA)
-
+test
 | | |
 |---|---|
 | Author | Chao Xie |
